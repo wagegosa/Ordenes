@@ -1,0 +1,2 @@
+<a class="btn btn-sm btn-info" href="{{ route('ordenes.show',$id) }}"><i class="fa fa-eye"></i></a>
+{{-- <a class="btn btn-sm btn-warning" href="{{ route('ordenes.edit',$id) }}"><i class="fa fa-pencil-square-o"></i></a> --}}
